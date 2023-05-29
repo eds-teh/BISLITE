@@ -5,8 +5,8 @@ $(function(){
         arrows: false,
         dots: true,
         autoplay: true,
-        autoplaySpeed: 3000,
-        speed: 2500
+        autoplaySpeed: 1000,
+        speed: 1500
     });
 
     $('.works__inner').slick({
